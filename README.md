@@ -237,6 +237,10 @@ Compare output to the hash listed in this repo.
 > **Important:** This repo does not claim Data Set 9 is fully complete or canonical.  
 > It documents the best-known public reconstruction status at the time of writing.
 
+**Additional notes:**
+- Multiple users report DOJ download failures, HTTP 404s, paginator errors, and IP-based blocking when attempting to retrieve Data Set 9.
+- These issues appear to affect multiple regions and are not user-specific.
+
 ---
 
 ## <a id="ds9-reconstruction"></a>How to Compile a Mostly Complete Data Set 9 (Reconstruction)
@@ -467,18 +471,8 @@ Only contains **49 GB** of **180 GB**. Multiple reports of cutoff from DOJ serve
 
 **SHA1**: 6ae129b76fddbba0776d4a5430e71494245b04c4
 
-Unverified version incomplete at **~101 GB**.
-
-* **Torrent magnet (⚠ Unverified ~101 GB ⚠):** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:36b3d556c36f22c211d49435623538ab501fb042&dn=DataSet_9---)**
-
-  ```text
-  magnet:?xt=urn:btih:36b3d556c36f22c211d49435623538ab501fb042&dn=DataSet\_9---
-  ```
-
-/u/susadmin’s More Complete Data Set 9 (96.25 GB)
-
-Note (may be relevant to DS9 availability & redactions):
-https://www.nytimes.com/2026/02/01/us/nude-photos-epstein-files.html
+* **Note:** A previously circulating ~101 GB Data Set 9 magnet has been removed from this index.
+Multiple users report malformed metadata causing torrent clients to stall or crash.
 
 * **Torrent magnet (⚠ De-duplicated merger of (45.63 GB + 86.74 GB) versions ⚠):** **[TORRENT MAGNET](magnet:?xt=urn:btih:7ac8f771678d19c75a26ea6c14e7d4c003fbf9b6&dn=dataset9-more-complete.tar.zst&xl=96148724837&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fwepzone.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.myporn.club%3A9337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.alaskantf.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com)**
 
