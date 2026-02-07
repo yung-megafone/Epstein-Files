@@ -314,7 +314,11 @@ The following files are provided for transparency and community verification:
 #### Status
 
 Efforts are ongoing to enumerate, test, and recover remaining NATIVEs from the DOJ source.
-Updates will be reflected in these reference files and the associated GitHub issue as progress continues.
+Updates will be reflected in these reference files and the [associated GitHub issue](https://github.com/yung-megafone/Epstein-Files/issues/4) as progress continues.
+
+```text
+https://github.com/yung-megafone/Epstein-Files/issues/4
+```
 
 ---
 
