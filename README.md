@@ -567,13 +567,13 @@ ym's compiled flattened PDFs
 
 * **Torrent magnet (⚠ Incomplete - 94.58 GB / 180 GB ⚠):** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
 
-Only contains **94.58 GB** of **180 GB**.
-
-Note: This is a VERY early seed. This only contains a compiled and flattened folder of PDF files — NO NATIVES. Bandwith isn't great, so please be patient and report any issues.
-
   ```text
   magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
+
+  Only contains **94.58 GB** of **180 GB**.
+
+Note: This is a VERY early seed. This only contains a compiled and flattened folder of PDF files — NO NATIVES. Bandwith isn't great, so please be patient and report any issues.
 
 * **Torrent magnet (⚠ Incomplete - 49 GB / 180 GB ⚠):** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:0a3d4b84a77bd982c9c2761f40944402b94f9c64&dn=DataSet9-incomplete.zip&xl=48995762176&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
 
