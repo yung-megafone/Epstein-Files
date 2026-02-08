@@ -9,7 +9,7 @@ Quick availability overview of all currently indexed datasets:
 ![Primary](https://img.shields.io/badge/Primary-DOJ%20ZIPs-blue?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Torrents%20%2B%20Internet%20Archive-purple?style=for-the-badge)
 
-![Data%20Set%201](https://img.shields.io/badge/Data%20Set%201-1.237%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
+![Data%20Set%201](https://img.shields.io/badge/Data%20Set%201-1.23%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%202](https://img.shields.io/badge/Data%20Set%202-630%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%203](https://img.shields.io/badge/Data%20Set%203-595%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%204](https://img.shields.io/badge/Data%20Set%204-351%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
