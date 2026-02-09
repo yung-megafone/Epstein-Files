@@ -53,7 +53,7 @@ https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_1
 * [Datasets](#datasets)
   * [Quick Jumps](#quick-jumps)
   * [Structured Dataset (Mostly Full)](#structured-dataset-full)
-  <!-- * [Data Sets 1–8 (Internet Archive)](#data-sets-1-8-internet-archive) -->
+  * [Data Sets 1–8 (Internet Archive)](#data-sets-1-8-internet-archive)
   * [Data Set 1](#data-set-1)
   * [Data Set 2](#data-set-2)
   * [Data Set 3](#data-set-3)
@@ -670,7 +670,13 @@ Source repository: https://github.com/yung-megafone/Epstein-Files
 
 ---
 
-<!-- IA -->
+### <a id="data-sets-internet-archive"></a>Data Sets (Internet Archive)
+
+**Epstein Files Data Sets 1-8, 10-12: [LINK](https://archive.org/download/Epstein-Data-Sets-So-Far)**
+
+```text
+https://archive.org/download/Epstein-Data-Sets-So-Far
+```
 
 
 ---
@@ -1003,7 +1009,7 @@ Source repository: https://github.com/yung-megafone/Epstein-Files
   magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
 
-* **SHA256:** See [checksums-incomplete.txt.zip]() *(pending upload 20260208 @ 0707z)*
+* **SHA256:** See [checksums-incomplete.zip](/notes/DS09/checksums-incomplete.zip)
 
 * **Notes:**
 
