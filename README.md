@@ -759,7 +759,7 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
 
 #### Sources (Pick One or Combine)
 
-#### Source A — @t-wilis' reconstruction _even more complete_ DataSet 9 (verifying,tbu GB / 180 GB) *recommend*
+#### Source A — @t-wilis' reconstructed _(even more complete)_ DataSet 9 (verifying,tbu GB / 180 GB) *recommend*
 
 * **Torrent Magnet:**
   **[LINK](magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
