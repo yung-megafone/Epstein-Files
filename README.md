@@ -1,4 +1,4 @@
-# <a id="epstein-files-feb-02-2026"></a>Epstein Files Feb 11, 2026
+# <a id="epstein-files-feb-15-2026"></a>Epstein Files Feb 15, 2026
 
 ## <a id="dataset-status-dashboard"></a>Dataset Status Dashboard
 
@@ -17,7 +17,7 @@ Quick availability overview of all currently indexed datasets:
 ![Data%20Set%206](https://img.shields.io/badge/Data%20Set%206-51.2%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%207](https://img.shields.io/badge/Data%20Set%207-96.9%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%208](https://img.shields.io/badge/Data%20Set%208-10.67%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
-![Data%20Set%209](https://img.shields.io/badge/Data%20Set%209-143%20GB%20%7C%20~99.89%25%20Reconstructed-orange?style=for-the-badge)
+![Data%20Set%209](https://img.shields.io/badge/Data%20Set%209-178.4%20GB%20%7C%20~99.89%25%20Reconstructed-orange?style=for-the-badge)
 ![Data%20Set%2010](https://img.shields.io/badge/Data%20Set%2010-78.6%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%2011](https://img.shields.io/badge/Data%20Set%2011-25.5%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%2012](https://img.shields.io/badge/Data%20Set%2012-114%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
@@ -49,8 +49,6 @@ https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_1
 * [How to Torrent the Magnet Links](#how-to-torrent-the-magnet-links)
 * [Hash Verification](#hash-verification)
 * [Datasets](#datasets)
-  * [Structured Dataset (Mostly Full)](#structured-dataset-full)
-  * [Data Sets 1–8, 11–12 (Internet Archive)](#data-sets-1-8-internet-archive)
   * [Data Set 1](#data-set-1)
   * [Data Set 2](#data-set-2)
   * [Data Set 3](#data-set-3)
@@ -337,119 +335,10 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="quick-jumps"></a>Quick Jumps
 
-* [Structured Dataset (Mostly Full)](#structured-dataset-full)
-* [Data Sets 1–8, 11–12 (Internet Archive)](#data-sets-1-8-internet-archive)
 * [1](#data-set-1) · [2](#data-set-2) · [3](#data-set-3) · [4](#data-set-4) · [5](#data-set-5) · [6](#data-set-6)
 * [7](#data-set-7) · [8](#data-set-8) · [9](#data-set-9-incomplete) · [10](#data-set-10) · [11](#data-set-11) · [12](#data-set-12)
-
----
-
-### <a id="structured-dataset-full"></a>Structured Dataset _(Mostly Full)_ (206.18 GB)
-
-**Epstein Files — Structured Dataset (Mostly Full) (1-12) 2026-02-04**
-
-##### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:f5cbe5026b1f86617c520d0a9cd610d6254cbe85&dn=epstein-files-structured-full-20250204.tar.zst&xl=221393230690)**
-
-  ```text
-  magnet:?xt=urn:btih:f5cbe5026b1f86617c520d0a9cd610d6254cbe85&dn=epstein-files-structured-full-20250204.tar.zst&xl=221393230690
-  ```
-
-##### Hashes
-
-**SHA256:** 29acc987cd7fadfbbf94444ed165750b84d82c85af3703bab74308ea9e91e910
-
-##### Notes
-
-**README.txt**
-
-```text
-EPSTEIN FILES - STRUCTURED DATASET
-==================================
-Last updated: 2026-02-04
-
-STRUCTURE
----------
-./
-├── checksums.csv
-├── README.txt
-├── dataset_00001/
-│   ├── checksums.csv
-│   ├── pdfs/
-│   ├── media/
-│   └── metadata/
-├── ...
-└── dataset_00012/
-
-Datasets correspond 1:1 with original DOJ releases (dataset_00001 = DataSet 1, etc.)
-
-FOLDERS
--------
-pdfs/      Court documents, depositions, flight logs, and other legal records
-media/     Images, videos, and audio files extracted from evidence
-metadata/  JSON/text files with extracted text, OCR data, and file metadata
-
-CHECKSUMS
----------
-Root checksums.csv     All files across all datasets (for global deduplication/verification)
-Dataset checksums.csv  Files within that dataset only (for per-dataset verification)
-
-Format: filename,sha256,dataset,dir
-
-SOURCES
--------
-Dataset 01: https://www.justice.gov/epstein/files/DataSet%201.zip
-Dataset 02: https://www.justice.gov/epstein/files/DataSet%202.zip
-Dataset 03: https://www.justice.gov/epstein/files/DataSet%203.zip
-Dataset 04: https://www.justice.gov/epstein/files/DataSet%204.zip
-Dataset 05: https://www.justice.gov/epstein/files/DataSet%205.zip
-Dataset 06: https://www.justice.gov/epstein/files/DataSet%206.zip
-Dataset 07: https://www.justice.gov/epstein/files/DataSet%207.zip
-Dataset 08: https://www.justice.gov/epstein/files/DataSet%208.zip
-Dataset 09: magnet:?xt=urn:btih:7ac8f771678d19c75a26ea6c14e7d4c003fbf9b6&dn=dataset9-more-complete.tar.zst
-Dataset 10: magnet:?xt=urn:btih:d509cc4ca1a415a9ba3b6cb920f67c44aed7fe1f&dn=DataSet%2010.zip
-Dataset 11: magnet:?xt=urn:btih:59975667f8bdd5baf9945b0e2db8a57d52d32957&dn=DataSet%2011.zip
-Dataset 12: https://www.justice.gov/epstein/files/DataSet%2012.zip
-
-NOTES
------
-- Dataset 09: Original DOJ source incomplete; using a partial community torrent composite
-- Dataset 10: Original DOJ source no longer available; using a complete community torrent
-- Dataset 11: Original DOJ source no longer available; using a complete community torrent
-
-SOURCE FILE CHECKSUMS (SHA256)
-------------------------------
-Dataset 01: 598f4d2d71f0d183cf898cd9d6fb8ec1f6161e0e71d8c37897936aef75f860b4
-Dataset 02: 24cebbaefe9d49bca57726b5a4b531ff20e6a97c370ba87a7593dd8dbdb77bff
-Dataset 03: 1c5587152328bd45a68baefeb5fba1d55677be4ff0b381d721f37c7b3da9055e
-Dataset 04: 979154842bac356ef36bb2d0e72f78e0f6b771d79e02dd6934cff699944e2b71
-Dataset 05: 7317e2ad089c82a59378a9c038e964feab246be62ecc24663b741617af3da709
-Dataset 06: d54d26d94127b9a277cf3f7d9eeaf9a7271f118757997edac3bc6e1039ed6555
-Dataset 07: 51e1961b3bcf18a21afd9bcf697fdb54dac97d1b64cf88297f4c5be268d26b8e
-Dataset 08: 8cb7345bf7a0b32f183658ac170fb0b6527895c95f0233d7b99d544579567294
-Dataset 09: 377cce99ac4fdd64bb8f97a63fc12f63f29adf3c8f1d44679aa0811fcb3e6fd2
-Dataset 10: 7d6935b1c63ff2f6bcabdd024ebc2a770f90c43b0d57b646fa7cbd4c0abcf846
-Dataset 11: 9714273b9e325f0a1f406063c795db32f5da2095b75e602d4c4fbaba5de3ed80
-Dataset 12: b5314b7efca98e25d8b35e4b7fac3ebb3ca2e6cfd0937aa2300ca8b71543bbe2
-
-CREDITS
--------
-Restructured by: https://github.com/excoffierleonard
-Source repository: https://github.com/yung-megafone/Epstein-Files
-```
-
----
-
-### <a id="data-sets-internet-archive"></a>Data Sets (Internet Archive)
-
-**Epstein Files Data Sets 1-8, 11-12: [LINK](https://archive.org/download/Epstein-Data-Sets-So-Far)**
-
-```text
-https://archive.org/download/Epstein-Data-Sets-So-Far
-```
-
+* 
+* For historical links, click [here](/notes/archives/README.md).
 
 ---
 
@@ -469,15 +358,6 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%201.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:6bfa388c07dc787e3bbd91df6f4c7c4638a7dc0f&dn=DataSet%201&xl=1327457599&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:6bfa388c07dc787e3bbd91df6f4c7c4638a7dc0f&dn=DataSet%201&xl=1327457599&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
-  ```
-
 * **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%201.zip)**
 
@@ -485,13 +365,31 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://archive.org/download/data-set-1/DataSet%201.zip
   ```
 
-#### Hashes
+    **SHA256:** 598F4D2D71F0D183CF898CD9D6FB8EC1F6161E0E71D8C37897936AEF75F860B4
 
-**SHA256:** 598F4D2D71F0D183CF898CD9D6FB8EC1F6161E0E71D8C37897936AEF75F860B4
+
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:10d451428ac43a98f2eff06ce256231b8eba7bed&dn=VOL00001&xl=1329247376)**
+
+  ```text
+  magnet:?xt=urn:btih:10d451428ac43a98f2eff06ce256231b8eba7bed&dn=VOL00001&xl=1329247376
+  ```
+
+    **Alt:**
+    **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%201.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%201.zip
+  ```
+
+  **SHA256:** 6aca077cf08065e8341e0627b5affd38bd39a28599604bdaeb852de2869f76ee
+
 
 #### Notes
 
-*(optional)*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -505,29 +403,36 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%202.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:d3ec6b3ea50ddbcf8b6f404f419adc584964418a&dn=DataSet%202&xl=662334369&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:d3ec6b3ea50ddbcf8b6f404f419adc584964418a&dn=DataSet%202&xl=662334369&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
-* **Internet Archive:**
+  **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%202.zip)**
 
   ```text
   https://archive.org/download/data-set-1/DataSet%202.zip
   ```
 
-#### Hashes
+    **SHA256:** 24CEBBAEFE9D49BCA57726B5A4B531FF20E6A97C370BA87A7593DD8DBDB77BFF
 
-**SHA256:** 24CEBBAEFE9D49BCA57726B5A4B531FF20E6A97C370BA87A7593DD8DBDB77BFF
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:dd6b5cac7991d34625e4eea1fb2c295c6fbd3adc&dn=VOL00002&xl=662334369)**
+
+  ```text
+  magnet:?xt=urn:btih:dd6b5cac7991d34625e4eea1fb2c295c6fbd3adc&dn=VOL00002&xl=662334369
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%202.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%202.zip
+  ```
+
+  **SHA256:** 62cf3dc6653b62f38171bb1f3771876da4bdc4aa20cae7d24bd12717169723f0
 
 #### Notes
 
-*(optional)*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -540,30 +445,37 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   ```text
   https://www.justice.gov/epstein/files/DataSet%203.zip
   ```
-
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:27704fe736090510aa9f314f5854691d905d1ff3&dn=DataSet+3&xl=628519331&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:27704fe736090510aa9f314f5854691d905d1ff3&dn=DataSet+3&xl=628519331&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
-* **Internet Archive:**
+  
+  **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%203.zip)**
 
   ```text
   https://archive.org/download/data-set-1/DataSet%203.zip
   ```
 
-#### Hashes
+    **SHA256:** 160231C8C689C76003976B609E55689530FC4832A1535CE13BFCD8F871C21E65
 
-**SHA256:** 160231C8C689C76003976B609E55689530FC4832A1535CE13BFCD8F871C21E65
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:3f5923fefc496e394fc1fd553f9d3a1c4242789c&dn=VOL00003&xl=628519331)**
+
+  ```text
+  magnet:?xt=urn:btih:3f5923fefc496e394fc1fd553f9d3a1c4242789c&dn=VOL00003&xl=628519331
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%203.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%203.zip
+  ```
+
+  **SHA256:** 160231c8c689c76003976b609e55689530fc4832a1535ce13bfcd8f871c21e65
 
 #### Notes
 
-*Prior hash was incorrect. Updated hash is verified against current DOJ content **and** the internet archive mirror*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -577,29 +489,36 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%204.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:4be48044be0e10f719d0de341b7a47ea3e8c3c1a&dn=DataSet%204&xl=375905556&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:4be48044be0e10f719d0de341b7a47ea3e8c3c1a&dn=DataSet%204&xl=375905556&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
-* **Internet Archive:**
+  **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%204.zip)**
 
   ```text
   https://archive.org/download/data-set-1/DataSet%204.zip
   ```
 
-#### Hashes
+    **SHA256:** 979154842BAC356EF36BB2D0E72F78E0F6B771D79E02DD6934CFF699944E2B71
 
-**SHA256:** 979154842BAC356EF36BB2D0E72F78E0F6B771D79E02DD6934CFF699944E2B71
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:6fc5aede157615f08335568efbf459b537001756&dn=VOL00004&xl=375905556)**
+
+  ```text
+  magnet:?xt=urn:btih:6fc5aede157615f08335568efbf459b537001756&dn=VOL00004&xl=375905556
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%204.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%204.zip
+  ```
+
+  **SHA256:** e78948690c22b904d6b79afe92a4eb1d7abb8e746b0d025123826ebee0df8273
 
 #### Notes
 
-*(optional)*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -613,15 +532,6 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%205.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:1deb0669aca054c313493d5f3bf48eed89907470&dn=DataSet%205&xl=64579973&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:1deb0669aca054c313493d5f3bf48eed89907470&dn=DataSet%205&xl=64579973&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
 * **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%205.zip)**
 
@@ -629,13 +539,29 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://archive.org/download/data-set-1/DataSet%205.zip
   ```
 
-#### Hashes
+    **SHA256:** 7317E2AD089C82A59378A9C038E964FEAB246BE62ECC24663B741617AF3DA709
 
-**SHA256:** 7317E2AD089C82A59378A9C038E964FEAB246BE62ECC24663B741617AF3DA709
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:9e3dd82b77f2c7264b0ef13f87f31a5c3c291046&dn=VOL00005&xl=64579973)**
+
+  ```text
+  magnet:?xt=urn:btih:9e3dd82b77f2c7264b0ef13f87f31a5c3c291046&dn=VOL00005&xl=64579973
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%205.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%205.zip
+  ```
+
+  **SHA256:** eeda87e747487d718e35b661d2d078ff08f0b0e80107c5f498fce17ae4f298ba
 
 #### Notes
 
-*(optional)*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -649,29 +575,36 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%206.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:05e7b8aefd91cefcbe28a8788d3ad4a0db47d5e2&dn=DataSet%206&xl=55600717&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:05e7b8aefd91cefcbe28a8788d3ad4a0db47d5e2&dn=DataSet%206&xl=55600717&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
-* **Internet Archive:**
+  **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%206.zip)**
 
   ```text
   https://archive.org/download/data-set-1/DataSet%206.zip
   ```
 
-#### Hashes
+    **SHA256:** D54D26D94127B9A277CF3F7D9EEAF9A7271F118757997EDAC3BC6E1039ED6555
 
-**SHA256:** D54D26D94127B9A277CF3F7D9EEAF9A7271F118757997EDAC3BC6E1039ED6555
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:6d1792e4d04d814bbbf0ed06e70ee72b92b5544f&dn=VOL00006&xl=55600717)**
+
+  ```text
+  magnet:?xt=urn:btih:6d1792e4d04d814bbbf0ed06e70ee72b92b5544f&dn=VOL00006&xl=55600717
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%206.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%206.zip
+  ```
+
+  **SHA256:** 4ed74dcce6d7f7fd1b7b298d76de2f5e6eaca190562f8310ca5011b354314785
 
 #### Notes
 
-*(optional)*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -685,29 +618,36 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%207.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:bcd8ec2e697b446661921a729b8c92b689df0360&dn=DataSet%207&xl=103060624&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:bcd8ec2e697b446661921a729b8c92b689df0360&dn=DataSet%207&xl=103060624&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
-* **Internet Archive:**
+  **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-1/DataSet%207.zip)**
 
   ```text
   https://archive.org/download/data-set-1/DataSet%207.zip
   ```
 
-#### Hashes
+    **SHA256:** 51E1961B3BCF18A21AFD9BCF697FDB54DAC97D1B64CF88297F4C5BE268D26B8E
 
-**SHA256:** 51E1961B3BCF18A21AFD9BCF697FDB54DAC97D1B64CF88297F4C5BE268D26B8E
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:101b10571e0b2edc2496f72a831c865ec6a3c070&dn=VOL00007&xl=103060624)**
+
+  ```text
+  magnet:?xt=urn:btih:101b10571e0b2edc2496f72a831c865ec6a3c070&dn=VOL00007&xl=103060624
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%207.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%207.zip
+  ```
+
+  **SHA256:** 51e1961b3bcf18a21afd9bcf697fdb54dac97d1b64cf88297f4c5be268d26b8e
 
 #### Notes
 
-*(optional)*
+*Updated torrent contains less redactions. See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -721,29 +661,36 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   https://www.justice.gov/epstein/files/DataSet%208.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:c3a522d6810ee717a2c7e2ef705163e297d34b72&dn=DataSet%208&xl=11465535175&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:c3a522d6810ee717a2c7e2ef705163e297d34b72&dn=DataSet%208&xl=11465535175&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce
-  ```
-
-* **Internet Archive:**
+  **Internet Archive:**
   **[LINK](https://archive.org/details/data-set-8)**
 
   ```text
   https://archive.org/details/data-set-8
   ```
 
-#### Hashes
+    **SHA256:** 8cb7345bf7a0b32f183658ac170fb0b6527895c95f0233d7b99d544579567294
 
-**SHA256:** 8cb7345bf7a0b32f183658ac170fb0b6527895c95f0233d7b99d544579567294
+#### Alternative Sources
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:8dacaa3a16be77a51db1cc21fe3b0ffaca0ab116&dn=VOL00008&xl=11465535175)**
+
+  ```text
+  magnet:?xt=urn:btih:8dacaa3a16be77a51db1cc21fe3b0ffaca0ab116&dn=VOL00008&xl=11465535175
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%208.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%208.zip
+  ```
+
+  **SHA256:** 558010b96b7980ed529a2ad4ea224123a59446927e4441d23a2e8e5c2361ee07
 
 #### Notes
-
-*(optional)*
+*Updated torrent contains less redactions.*
+  See (https://github.com/yung-megafone/Epstein-Files/issues/11#issuecomment-3902460186) for more info*
 
 ---
 
@@ -751,7 +698,7 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
 
 #### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated, returns 404 as of 20260206 @ 1000z)](https://www.justice.gov/epstein/files/DataSet%209.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated)](https://www.justice.gov/epstein/files/DataSet%209.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%209.zip
@@ -759,7 +706,7 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
 
 #### Sources (Pick One or Combine)
 
-#### Source A — @t-wilis' reconstructed _(even more complete)_ DataSet 9 (verifying,tbu GB / 180 GB) *recommend*
+##### Source A — @t-wilis' reconstructed _(even more complete)_ DataSet 9 (178.4 GB / 180 GB) *recommend*
 
 * **Torrent Magnet:**
   **[LINK](magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
@@ -768,9 +715,9 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
 
-* **SHA256:** 1472d41d66b069423ed804ceee3d47bc6d307be0daa05d0efe5a38df2d4469e5
+    **SHA256:** 1472d41d66b069423ed804ceee3d47bc6d307be0daa05d0efe5a38df2d4469e5
 
-* **Notes:** *file contents unverified, posted to assist with seeding as this seems to be the most complete set thus far*
+    **Notes:** 
 
 
 ##### Source B — u/FuckThisSite3's _MORE Complete_ DataSet 9 (143 GB / 180 GB)
@@ -782,9 +729,10 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuckthissite3.tar&xl=148072017920
   ```
 
-* **SHA256:** 5ADC043BCF94304024D718E57267C1AA009D782835F6ADBE6AD7FDBB763F15C5 _(ym) pending verification_
+    **SHA256:** 5ADC043BCF94304024D718E57267C1AA009D782835F6ADBE6AD7FDBB763F15C5
 
-* **Notes:** *Contains ~2,308 NATIVES, ~252,169 PDFs
+    **Notes:** 
+    * *Contains ~2,308 NATIVES, ~252,169 PDFs*
 
 
 ##### Source C — [ym's](https://github.com/yung-megafone) compiled flattened PDFs (VERY SLOW) (94.58 GB / 180 GB)
@@ -796,18 +744,17 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
 
-* **SHA256:** See [checksums-incomplete.zip](/notes/DS09/checksums-incomplete.zip)
+    **SHA256:** See [checksums-incomplete.zip](/notes/DS09/checksums-incomplete.zip)
 
-* **Notes:**
-
-  * 531,282 PDFs (flattened). **No NATIVEs.**
-  * VOL00009.DAT, VOL00009.OPT
-  * Early seed; bandwidth limited — please be patient and report issues.
+    **Notes:**
+    * *531,282 PDFs (flattened). **No NATIVEs.***
+    * *VOL00009.DAT, VOL00009.OPT*
+    * *Early seed; bandwidth limited — please be patient and report issues.*
 
 
 #### Notes
 
-See: [Notes on Data Set 9](/notes/DS09/README.md)
+ *See: [Notes on Data Set 9](/notes/DS09/README.md)*
 
 ---
 
@@ -815,44 +762,42 @@ See: [Notes on Data Set 9](/notes/DS09/README.md)
 
 #### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated, returns 404 as of 20260206 @ 1000z)](https://www.justice.gov/epstein/files/DataSet%2010.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated)](https://www.justice.gov/epstein/files/DataSet%2010.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%2010.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:d509cc4ca1a415a9ba3b6cb920f67c44aed7fe1f&dn=DataSet%2010.zip&xl=84439381640)**
-
-  ```text
-  magnet:?xt=urn:btih:d509cc4ca1a415a9ba3b6cb920f67c44aed7fe1f&dn=DataSet%2010.zip&xl=84439381640
-  ```
-
-* **Internet Archive:**
-  **[LINK](https://archive.org/details/data-set-10)**
-
-  ```text
-  https://archive.org/details/data-set-10
-  ```
-
-* **Backup (IA):**
+  **Internet Archive:**
   **[LINK](https://archive.org/download/data-set-10/DataSet%2010.zip)**
 
   ```text
   https://archive.org/download/data-set-10/DataSet%2010.zip
   ```
 
-#### Hashes
+    **SHA256:** 7D6935B1C63FF2F6BCABDD024EBC2A770F90C43B0D57B646FA7CBD4C0ABCF846
 
-**SHA256:** 7D6935B1C63FF2F6BCABDD024EBC2A770F90C43B0D57B646FA7CBD4C0ABCF846
+#### Alternative Sources
 
-**MD5:** b8a72424ae812fd21d225195812b2502
+* **Torrent Magnet:**
+
+  **[LINK](magnet:?xt=urn:btih:d509cc4ca1a415a9ba3b6cb920f67c44aed7fe1f&dn=DataSet%2010.zip&xl=84439381640)**
+
+  ```text
+  magnet:?xt=urn:btih:d509cc4ca1a415a9ba3b6cb920f67c44aed7fe1f&dn=DataSet%2010.zip&xl=84439381640
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2010.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2010.zip
+  ```
+
+  **SHA256:** 7d6935b1c63ff2f6bcabdd024ebc2a770f90c43b0d57b646fa7cbd4c0abcf846
 
 #### Notes
-
-*(optional)*
+  *Alternate sets may have less redactions*
 
 ---
 
@@ -860,13 +805,11 @@ See: [Notes on Data Set 9](/notes/DS09/README.md)
 
 #### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated, returns 404 as of 20260206 @ 1000z)](https://www.justice.gov/epstein/files/DataSet%2011.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated)](https://www.justice.gov/epstein/files/DataSet%2011.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%2011.zip
   ```
-
-#### Sources
 
 * **Torrent Magnet:**
   **[LINK](magnet:?xt=urn:btih:59975667f8bdd5baf9945b0e2db8a57d52d32957&xt=urn:btmh:12200ab9e7614c13695fe17c71baedec717b6294a34dfa243a614602b87ec06453ad&dn=DataSet%2011.zip&xl=27441913130&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fleet-tracker.moe%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.alaskantf.com%3A443%2Fannounce&tr=https%3A%2F%2Fshahidrazi.online%3A443%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=http%3A%2F%2Fwww.genesis-sp.org%3A2710%2Fannounce)**
@@ -875,18 +818,21 @@ See: [Notes on Data Set 9](/notes/DS09/README.md)
   magnet:?xt=urn:btih:59975667f8bdd5baf9945b0e2db8a57d52d32957&xt=urn:btmh:12200ab9e7614c13695fe17c71baedec717b6294a34dfa243a614602b87ec06453ad&dn=DataSet%2011.zip&xl=27441913130&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fleet-tracker.moe%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.alaskantf.com%3A443%2Fannounce&tr=https%3A%2F%2Fshahidrazi.online%3A443%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=http%3A%2F%2Fwww.genesis-sp.org%3A2710%2Fannounce
   ```
 
-* **Internet Archive:**
-  **[LINK]()** _(pending)_
+    **SHA256:** 9714273B9E325F0A1F406063C795DB32F5DA2095B75E602D4C4FBABA5DE3ED80
 
-#### Hashes
+#### Alternative Sources
 
-**SHA1:** 574950c0f86765e897268834ac6ef38b370cad2a
+  **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2011.zip)**
 
-**SHA256:** 9714273B9E325F0A1F406063C795DB32F5DA2095B75E602D4C4FBABA5DE3ED80
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2011.zip
+  ```
 
+**SHA256:** 9714273b9e325f0a1f406063c795db32f5da2095b75e602d4c4fbaba5de3ed80
+    
 #### Notes
 
-*(optional)*
 
 ---
 
@@ -900,40 +846,49 @@ See: [Notes on Data Set 9](/notes/DS09/README.md)
   https://www.justice.gov/epstein/files/DataSet%2012.zip
   ```
 
-#### Sources
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:e7477151f8acfbaee3e704bbabd9a7388c7169f9&dn=DataSet%2012.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:e7477151f8acfbaee3e704bbabd9a7388c7169f9&dn=DataSet%2012.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
-  ```
-
-* **Internet Archive:**
+  **Internet Archive:**
   **[LINK](https://archive.org/details/data-set-12_202601)**
 
   ```text
   https://archive.org/details/data-set-12_202601
   ```
 
-#### Hashes
+    **SHA256:** B5314B7EFCA98E25D8B35E4B7FAC3EBB3CA2E6CFD0937AA2300CA8B71543BBE2
 
-**SHA1:** 20f804ab55687c957fd249cd0d417d5fe7438281
+#### Alternative Sources
 
-**MD5:** b1206186332bb1af021e86d68468f9fe
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:3db3fc05e2481513675a50e313333692995e19ca&dn=VOL00012&xl=125711730)**
 
-**SHA256:** B5314B7EFCA98E25D8B35E4B7FAC3EBB3CA2E6CFD0937AA2300CA8B71543BBE2
+  ```text
+  magnet:?xt=urn:btih:3db3fc05e2481513675a50e313333692995e19ca&dn=VOL00012&xl=125711730
+  ```
+
+    **Alt:**
+  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2012.zip)**
+
+  ```text
+  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2012.zip
+  ```
+
+  **SHA256:** b5314b7efca98e25d8b35e4b7fac3ebb3ca2e6cfd0937aa2300ca8b71543bbe2
 
 #### Notes
+  *At least three files are missing from the DOJ provided zip. These are:*
 
-*(optional)*
+    [EFTA02731790.pdf](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731790.pdf)
+
+    [EFTA02731812.pdf](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731812.pdf)
+
+    [EFTA02731852.pdf](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731852.pdf)
+
+  *see (https://github.com/yung-megafone/Epstein-Files/issues/10) for more info*
 
 ---
 
 ## <a id="contributors"></a>Contributors & Acknowledgements
 
-This project exists thanks to community contributions across issues, pull requests,
-mirrors, analysis, and verification efforts.
+This project exists thanks to community contributions across issues, pull requests, mirrors, analysis, and verification efforts.
 
 Notable contributors include:
 
