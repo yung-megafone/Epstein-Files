@@ -1,4 +1,16 @@
-# <a id="epstein-files-feb-15-2026"></a>Epstein Files Feb 15, 2026
+# <a id="epstein-files-feb-18-2026"></a>Epstein Files Feb 15, 2026
+
+---
+
+> [!WARNING]
+> This repository archives sensitive government-released materials.
+> Inclusion of a name does not imply guilt.
+> 
+> Misuse, harassment, or unlawful redistribution is not condoned.
+> 
+> See **[ARCHIVAL_DISCLAIMER.md](/ARCHIVAL_DISCLAIMER.md)** for full details.
+
+---
 
 ## <a id="dataset-status-dashboard"></a>Dataset Status Dashboard
 
@@ -17,7 +29,7 @@ Quick availability overview of all currently indexed datasets:
 ![Data%20Set%206](https://img.shields.io/badge/Data%20Set%206-51.2%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%207](https://img.shields.io/badge/Data%20Set%207-96.9%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%208](https://img.shields.io/badge/Data%20Set%208-10.67%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
-![Data%20Set%209](https://img.shields.io/badge/Data%20Set%209-178.4%20GB%20%7C%20~99.89%25%20Reconstructed-orange?style=for-the-badge)
+![Data%20Set%209](https://img.shields.io/badge/Data%20Set%209-181.3%20GB%20%7C%20~99.9%25%20Reconstructed-orange?style=for-the-badge)
 ![Data%20Set%2010](https://img.shields.io/badge/Data%20Set%2010-78.6%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%2011](https://img.shields.io/badge/Data%20Set%2011-25.5%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![Data%20Set%2012](https://img.shields.io/badge/Data%20Set%2012-114%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
@@ -337,7 +349,6 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 * [1](#data-set-1) · [2](#data-set-2) · [3](#data-set-3) · [4](#data-set-4) · [5](#data-set-5) · [6](#data-set-6)
 * [7](#data-set-7) · [8](#data-set-8) · [9](#data-set-9-incomplete) · [10](#data-set-10) · [11](#data-set-11) · [12](#data-set-12)
-* 
 * For historical links, click [here](/notes/archives/README.md).
 
 ---
@@ -709,52 +720,83 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   https://www.justice.gov/epstein/files/DataSet%209.zip
   ```
 
-#### Sources (Pick One or Combine)
+#### Sources
 
-##### Source A — @t-wilis' reconstructed _(even more complete)_ DataSet 9 (178.4 GB / 180 GB) *recommend*
+##### Source A — @jeefiles' reconstructed _(even more complete)_ DataSet 9 (181.3 GB[^1] / 180 GB) *recommended*
 
 * **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
+  **[LINK](magnet:?xt=urn:btih:50fc8133084864e15440b53dfa89cd43cda6c934&xt=urn:btmh:1220482c89a1b7e09185fdf01b2fb7e15d60fe4518425e8db6f75a5a5a2f45054f40&dn=DS9_181GB&xl=186445201408&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
 
   ```text
-  magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+  magnet:?xt=urn:btih:50fc8133084864e15440b53dfa89cd43cda6c934&xt=urn:btmh:1220482c89a1b7e09185fdf01b2fb7e15d60fe4518425e8db6f75a5a5a2f45054f40&dn=DS9_181GB&xl=186445201408&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
 
-    **SHA256:** 1472d41d66b069423ed804ceee3d47bc6d307be0daa05d0efe5a38df2d4469e5
+    **SHA256:** eb3c112a62d326e302bcfc6224cc1d31a5fff6c5f3bdf9f4ec32089511191922
 
     **Notes:** 
 
-
-##### Source B — u/FuckThisSite3's _MORE Complete_ DataSet 9 (143 GB / 180 GB)
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuckthissite3.tar&xl=148072017920)**
-
   ```text
-  magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuckthissite3.tar&xl=148072017920
+  ## Directory Explanation
+
+  - **MISSING-NATIVES** - 'No Image Produced' files, this is all remaining missing NATIVES, separated from IMAGES for the sake of navigation
+  - **NATIVES** - Non-PDF document files, missing 240 based on placeholder PDF files, I not believe the DOJ ever uploaded 237 of these NATIVES files. If they were they only ever existed in the original release from https://www.justice.gov/epstein/files/DataSet%209.zip.
+  - **IMAGES** - PDF files - documents/pictures. All 'No Image Produced' and 'Natives Placeholder' PDF that have the actual native were removed, as they are not the real files of evidence. 
+  - **EMPTY** - Discovered NATIVES with 0B size, non-valid, added for posterity. I believe these were failed uploads from the DOJ and were never available publicly.
+  - **CORRUPTED** - These are known corrupted files. There are other NATIVES that will play as video files, but will not produce an image, these may possibly be re-encoded to produce the video as well, they were left in the NATIVES directory.
+  - **DATA** - VOL00009.OPT & VOL00009.DAT from previous torrent download, added for posterity.
+  - **DB-EXTRACT** - Two DB files (EFTA01242504.db & EFTA01242503.db) in NATIVES, these are the images that were extracted from them. These are not SQLite databases, they're OLE2 Compound Document files.
+
+  ## Folder Contents
+
+  | Directory | Files | Size |
+  |-----------|-------|------|
+  | NATIVES | 2,303 | 84.8 GiB (91,080,562,692) |
+  | MISSING-NATIVES | 242 | 582.5 KiB (596,530) |
+  | IMAGES | 528,740 | 94.5 GiB (101,487,257,606) |
+  | EMPTY | 31 | 1.0 KiB (1,059) |
+  | DB-EXTRACT | 83 | 208.8 KiB (213,853) |
+  | DATA | 2 | 84.1 MiB (88,200,861) |
+  | CORRUPTED | 2 | 1.9 GiB (2,018,639,994) |
+
+
+
+  ## Missing Files Based on (range: EFTA00039025 – EFTA01262781). I do not believe these were ever uploaded to the DOJ website
+
+  
+  > EFTA00709804
+  > EFTA00709805
+  > EFTA00709806
+  > EFTA00709807
+  > EFTA00770595
+  > EFTA00774768
+  > EFTA00823190
+  > EFTA00823191
+  > EFTA00823192
+  > EFTA00823221
+  > EFTA00823319
+  > EFTA00877475
+  > EFTA00892252
+  > EFTA00901740
+  > EFTA00912980
+  > EFTA00919433
+  > EFTA00919434
+  > EFTA00932520
+  > EFTA00932521
+  > EFTA00932522
+  > EFTA00932523
+  > EFTA01135215
+  > EFTA01135708
+  
+
+  ## 10.1GB of Video Files Removed fro DOJ website, still missing. I believe these are the only files still missing from what the DOJ actually uploaded from the initial release
+
+  | filename | extension | full_url | content_type | content_length |
+  |----------|-----------|----------|--------------|----------------|
+  | EFTA00276494 | ts | https://www.justice.gov/epstein/files/DataSet%209/EFTA00276494.ts | video/vnd.dlna.mpeg-tts | 4286578688 |
+  | EFTA01244748 | wmv | https://www.justice.gov/epstein/files/DataSet%209/EFTA01244748.wmv | video/x-ms-wmv | 3898308247 |
+  | EFTA01244749 | wmv | https://www.justice.gov/epstein/files/DataSet%209/EFTA01244749.wmv | video/x-ms-wmv | 2878425893 |
+
   ```
-
-    **SHA256:** 5ADC043BCF94304024D718E57267C1AA009D782835F6ADBE6AD7FDBB763F15C5
-
-    **Notes:** 
-    * *Contains ~2,308 NATIVES, ~252,169 PDFs*
-
-
-##### Source C — [ym's](https://github.com/yung-megafone) compiled flattened PDFs (VERY SLOW) (94.58 GB / 180 GB)
-
-* **Torrent Magnet:**
-  **[LINK](magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
-
-  ```text
-  magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
-  ```
-
-    **SHA256:** See [checksums-incomplete.zip](/notes/DS09/checksums-incomplete.zip)
-
-    **Notes:**
-    * *531,282 PDFs (flattened). **No NATIVEs.***
-    * *VOL00009.DAT, VOL00009.OPT*
-    * *Early seed; bandwidth limited — please be patient and report issues.*
 
 
 #### Notes
@@ -841,7 +883,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ---
 
-### <a id="data-set-12"></a>Data Set 12 (114.1 MB)
+### <a id="data-set-12"></a>Data Set 12 (114.1 MB)[^1]
 
 #### Official DOJ
 
@@ -910,3 +952,11 @@ For full attribution and discussion history, see the Issues and Pull Requests ta
 This repository does not create or alter any files — it only mirrors publicly available links and community preservation efforts.
 
 If you have additional verified datasets, improved mirrors, or corrected hashes, contributions are welcome.
+
+
+---
+
+### Footnotes
+
+[^1]: Community reconstructions may contain additional files beyond the originally advertised archive size. Variance between published archive sizes and subsequent file sets has been observed across multiple DOJ dataset releases.
+
