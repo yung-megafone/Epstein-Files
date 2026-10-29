@@ -70,7 +70,7 @@ https://web.archive.org/web/20260131175929/https://old.reddit.com/r/DataHoarder/
   * [Data Set 6](#data-set-6)
   * [Data Set 7](#data-set-7)
   * [Data Set 8](#data-set-8)
-  * [Data Set 9 (Incomplete)](#data-set-9-incomplete)
+  * [Data Set 9*](#data-set-9-incomplete)
   * [Data Set 10](#data-set-10)
   * [Data Set 11](#data-set-11)
   * [Data Set 12](#data-set-12)
