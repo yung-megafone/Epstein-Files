@@ -362,9 +362,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-1"></a>Data Set 1 (1.23 GB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%201.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED)](https://www.justice.gov/epstein/files/DataSet%201.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%201.zip
@@ -409,9 +409,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-2"></a>Data Set 2 (630 MB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%202.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%202.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%202.zip
@@ -455,9 +455,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-3"></a>Data Set 3 (595 MB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%203.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%203.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%203.zip
@@ -501,9 +501,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-4"></a>Data Set 4 (351 MB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%204.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%204.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%204.zip
@@ -545,9 +545,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-5"></a>Data Set 5 (61.4 MB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%205.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%205.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%205.zip
@@ -590,9 +590,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-6"></a>Data Set 6 (51.2 MB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%206.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%206.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%206.zip
@@ -635,9 +635,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-7"></a>Data Set 7 (96.9 MB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%207.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%207.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%207.zip
@@ -680,9 +680,9 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ### <a id="data-set-8"></a>Data Set 8 (10.67 GB)
 
-#### Official DOJ
+#### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%208.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%208.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%208.zip
@@ -727,7 +727,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 #### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated)](https://www.justice.gov/epstein/files/DataSet%209.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%209.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%209.zip
@@ -832,7 +832,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 #### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated)](https://www.justice.gov/epstein/files/DataSet%2010.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%2010.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%2010.zip
@@ -877,7 +877,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 #### Official DOJ (Deprecated)
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK (Deprecated)](https://www.justice.gov/epstein/files/DataSet%2011.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%2011.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%2011.zip
@@ -912,7 +912,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 #### Official DOJ
 
-* **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%2012.zip)**
+* **[ORIGINAL JUSTICE DEPARTMENT LINK (DEPRECATED](https://www.justice.gov/epstein/files/DataSet%2012.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%2012.zip
